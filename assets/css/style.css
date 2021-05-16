@@ -231,4 +231,15 @@ header {
 .contact-info a {
   color: #fce138
 }
- 
+.intro {
+    margin: 0 20px 0 20px;
+}
+.intro h2 {
+  color: #fce138;
+  font-size: 44px;
+  font-weight: bold;
+}
+.intro p {
+  color: white;
+
+}
